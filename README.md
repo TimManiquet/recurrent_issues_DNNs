@@ -1,6 +1,6 @@
 ## Recurrent issues with DNN models of visual recognition
 
-This repository contains data and code associated with *Maniquet, T., Op de Beeck, H. & Costantino., A. (2024) Recurrent issues with deep neural networks of visual recognition*.
+This repository contains data and code associated with *Maniquet, T., Op de Beeck, H. & Costantino., A. (2024) Recurrent issues with deep neural networks of visual recognition* (see [preprint](https://doi.org/10.1101/2024.04.02.587669)).
 
 ### Data
 
