@@ -1,1 +1,15 @@
+# mac-related .ds_store files
 .DS_Store
+*/.DS_Store
+
+# Ignore scripts from the previous submission
+1_human_acc_anovas.ipynb
+2_corr_RT_masking.ipynb
+3_model_acc_anova.ipynb
+4_model_consistency.ipynb
+5_model_confmat.ipynb
+./scripts/previous_submission/*
+
+# Useless folders
+src
+figures

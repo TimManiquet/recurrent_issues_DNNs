@@ -7,6 +7,7 @@ This repository contains data and code associated with *Maniquet, T., Op de Beec
 Human and DNN data is contained within the `data` folder:
 - `human_data.csv` contains the preprocessed and aggregated data from all 218 participants.
 - `nn_data*.csv` files contain the aggregated performance results from all DNN models used in the experiment, split into <100mb chunks.
+- The `processed` folder contains the data aggregated, average, and otherwise processed to run the analyses contained in `scripts`.
 
 ### Scripts
 
